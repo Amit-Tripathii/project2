@@ -1,3 +1,3 @@
 # New Project
  This project was created from local system.
- created by Amit Tripathi
+ created by Amit Tripathi.
